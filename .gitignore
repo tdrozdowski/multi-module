@@ -1,7 +1,5 @@
 # Project exclude paths
-/core/target/scala-2.13/classes/
-/core/target/streams/
-/core-db/target/scala-2.13/classes/
-/core-db/target/streams/
-/project/target/
-/target/
+target
+project/target
+.bsp/
+.idea
